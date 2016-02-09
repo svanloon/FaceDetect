@@ -1,6 +1,12 @@
-Run the code like this:
+This code is reliant on having jupyter installed.
 
-*python face_detect.py abba.png haarcascade_frontalface_default.xml*
+You can run this code by running
+```
+jupyter notebook
+```
+
+Then select your notebook.
+
 
 If you want to understand how the code works, the details are here:
 
